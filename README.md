@@ -1,7 +1,7 @@
 Pizza sales Project: Dynamic Excel dashboard for a pizza store! 📊🍕
 
 Using my data analysis skills, I imported a database from SQL and transformed it into an eye-catching dashboard that provides valuable insights into the pizza store's performance. 📈📊
-
+ 
 Here are some of the fantastic features of the dashboard:
 
 🔸 Top Performing Pizzas: The dashboard highlights the most popular and best-selling pizzas, allowing the owner to quickly identify customer favorites. 🏆🍕
